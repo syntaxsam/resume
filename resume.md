@@ -1,10 +1,9 @@
-#Sam B. Smith
-##Front-End Developer and UI Designer
+#Sam B. Smith#
+###Front-End Developer and UI Designer#
 Front-end developer and UI designer with over 7 years of professional experience creating web sites and web applications from conception to completion. I specialize HTML, CSS, and JavaScript to create polished and intuitive user experiences. I enjoy working with a team of designers and developers, and I endeavor to treat everyone with the utmost respect.
 
-
-#####EMPLOYMENT
-###Front-End Developer and UI Designer
+#####EMPLOYMENT#
+###Front-End Developer and UI Designer#
 [EDsuite](http://edsuite.com/)
 July 2014 - Present
 
@@ -15,7 +14,7 @@ July 2014 - Present
 * Maintain current websites, make enhancements, and provide technical support for clients.
 * Manage hosting accounts, FTP, DNS, access to firewall, and email.
 
-###Front-End Developer and UI Designer
+###Front-End Developer and UI Designer#
 [Cypress Interactive](http://cypressinteractive.com/)
 2010 - June 2014
 		
@@ -26,7 +25,7 @@ July 2014 - Present
 * Maintained current websites, made enhancements, and provided technical support for clients.
 * Manage hosting accounts, FTP, and email.
 		
-###Lead UI Designer and Front-End Developer
+###Lead UI Designer and Front-End Developer#
 [Network IP](http://networkip.net/)
 2007 - 2010
 
@@ -35,7 +34,7 @@ July 2014 - Present
 * Designed elegant websites and user interfaces in Photoshop and Illustrator. Created design concepts and wireframes in Photoshop, and pen and paper. Prototyped web applications in HTML and CSS.
 
 
-#####SKILLS
+#####SKILLS#
 *Proficient In:*
 * HTML5
 * CSS3
@@ -56,8 +55,7 @@ July 2014 - Present
 * Photoshop
 * Illustrator
 * Git
-		
+	
 
-
-#####RECOMMENDATIONS
+#####RECOMMENDATIONS#
 "Sam is incredibly knowledgeable about a wide array of web technologies and is always available and ready to help out and give great advice. He's one of the rare ones who not only codes but also has a great design eye. He consistently produces quality work." - Jayson Lane, iOS Developer and Designer at Oven Bits
