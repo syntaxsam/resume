@@ -2,7 +2,9 @@
 ###Front-End Developer and UI Designer#
 Front-end developer and UI designer with over 7 years of professional experience creating web sites and web applications from conception to completion. I specialize HTML, CSS, and JavaScript to create polished and intuitive user experiences. I enjoy working with a team of designers and developers, and I endeavor to treat everyone with the utmost respect.
 
-#####EMPLOYMENT#
+---
+
+######EMPLOYMENT#
 ###Front-End Developer and UI Designer#
 [EDsuite](http://edsuite.com/)
 July 2014 - Present
@@ -33,8 +35,9 @@ July 2014 - Present
 * Front-end development using, HTML and CSS.
 * Designed elegant websites and user interfaces in Photoshop and Illustrator. Created design concepts and wireframes in Photoshop, and pen and paper. Prototyped web applications in HTML and CSS.
 
+---
 
-#####SKILLS#
+######SKILLS#
 *Proficient In:*
 * HTML5
 * CSS3
@@ -56,6 +59,7 @@ July 2014 - Present
 * Illustrator
 * Git
 	
+---
 
-#####RECOMMENDATIONS#
+######RECOMMENDATIONS#
 "Sam is incredibly knowledgeable about a wide array of web technologies and is always available and ready to help out and give great advice. He's one of the rare ones who not only codes but also has a great design eye. He consistently produces quality work." - Jayson Lane, iOS Developer and Designer at Oven Bits
