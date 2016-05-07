@@ -1,6 +1,6 @@
 #Sam B. Smith#
 ###Front-End Developer and UI Designer#
-Front-end developer and UI designer with over 7 years of professional experience creating web sites and web applications from conception to completion. I specialize HTML, CSS, and JavaScript to create polished and intuitive user experiences. I enjoy working with a team of designers and developers, and I endeavor to treat everyone with the utmost respect.
+Front-end developer and UI designer with over 7 years of professional experience creating web sites and web applications from conception to completion. I specialize in HTML, CSS, and JavaScript to create polished and intuitive user experiences. I enjoy working with a team of designers and developers, and I endeavor to treat everyone with the utmost respect.
 
 ---
 
@@ -41,6 +41,7 @@ July 2014 - Present
 *Proficient In:*
 * HTML5
 * CSS3
+* SASS
 * Drupal CMS
 * jQuery / JavaScript
 		
@@ -48,13 +49,12 @@ July 2014 - Present
 *Familiar With:*
 * BEM
 * OOCSS
-* Sass / LESS
 * Bootstrap / Foundation
 * Gulp
 		
 
 *Apps and Tools:*
-* Sublime Text 2
+* Atom
 * Photoshop
 * Illustrator
 * Git
