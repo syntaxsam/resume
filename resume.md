@@ -19,14 +19,14 @@ July 2014 - Present
 ###Front-End Developer and UI Designer#
 [Cypress Interactive](http://cypressinteractive.com/)
 2010 - June 2014
-		
+
 * Responsible for the design and development of CMS driven websites and applications.
 * Front-end development using Drupal, HTML5, CSS3 and JavaScript, leveraging the jQuery library for DOM manipulation, event handling, and UI animations.
 * Responsive and adaptive web design.
 * Designed elegant websites and user interfaces in Photoshop and Illustrator. Created design concepts and wireframes in Photoshop, and pen and paper. Prototyped websites and applications in HTML and CSS.
 * Maintained current websites, made enhancements, and provided technical support for clients.
 * Manage hosting accounts, FTP, and email.
-		
+
 ###Lead UI Designer and Front-End Developer#
 [Network IP](http://networkip.net/)
 2007 - 2010
@@ -41,24 +41,24 @@ July 2014 - Present
 *Proficient In:*
 * HTML5
 * CSS3
-* SASS
+* Sass
 * Drupal CMS
 * jQuery / JavaScript
-		
+
 
 *Familiar With:*
 * BEM
 * OOCSS
 * Bootstrap / Foundation
 * Gulp
-		
+
 
 *Apps and Tools:*
 * Atom
 * Photoshop
 * Illustrator
 * Git
-	
+
 ---
 
 ######RECOMMENDATIONS#
